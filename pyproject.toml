@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sgr_anonymizer"
+version = "1.0.0"
+description = "SGR-based anonymizer for personal data (ФЗ-152)"
+dependencies = [
+    "pydantic>=2.0",
+    "huggingface-hub>=0.20.0",
+    "llama-cpp-python>=0.2.78",
+    "requests",
+    "python-dotenv"
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["sgr_anonymizer*"]

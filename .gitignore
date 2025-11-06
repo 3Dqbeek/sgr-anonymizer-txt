@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
+
+# Данные (не загружаем в репозиторий)
+dialog_in/
+dialog_out*/
+dialog_test*/
+*.txt
+*.json
+
+# Models
+models/
+
+# OS
+.DS_Store
+Thumbs.db
