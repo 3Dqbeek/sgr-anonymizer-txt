@@ -2,7 +2,7 @@
 
 Приложение для анонимизации персональных данных в текстовых диалогах по ФЗ-152 с использованием SGR методологии.
 
-**Автор:** DautoV Vasiliy  
+**Автор:** Dautov Vasiliy  
 **Лицензия:** MIT
 
 ## Описание
@@ -203,7 +203,7 @@ sgr-anonymizer-txt/
 
 MIT License
 
-Copyright (c) 2025 DautoV Vasiliy
+Copyright (c) 2025 Dautov Vasiliy
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -225,7 +225,7 @@ SOFTWARE.
 
 ## Автор
 
-**DautoV Vasiliy**
+**Dautov Vasiliy**
 
 ## Поддержка
 
